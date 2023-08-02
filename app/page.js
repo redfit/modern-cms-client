@@ -5,7 +5,9 @@ export default async function Home() {
  
   return (
     <PageContainer>
-      <Hello />
+      <h1 className="text-3xl fond-bold underline">
+        Hello World
+      </h1>
     </PageContainer>
   );
 }
